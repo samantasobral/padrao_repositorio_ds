@@ -19,3 +19,7 @@ Segunda e terceira etapas do ETL (transformação e carregamento).
 Boas práticas de análise exploratória dos dados (verificar outliers, correlação, tipo de distribuição, estatística
 descritiva dos dados).
 
+- **modeling:**
+Boas práticas de aplicação e avaliação de algoritmos para construir modelos de acordo com as métricas e objetivos
+do problema de negócio.
+

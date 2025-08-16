@@ -12,7 +12,6 @@ Boas práticas de limpeza, tratamento dos dados nulos, transformação e criaç�
 Segunda e terceira etapas do ETL (transformação e carregamento).
 
 - **exploratory-analysis:**
-Boas práticas de análise exploratória dos dados (verificar outliers, correlação, tipo de dis>descritiva dos dados).
-
-
+Boas práticas de análise exploratória dos dados (verificar outliers, correlação,
+tipo de distribuição e estatística descritiva dos dados).
 

@@ -23,3 +23,6 @@ descritiva dos dados).
 Boas práticas de aplicação e avaliação de algoritmos para construir modelos de acordo com as métricas e objetivos
 do problema de negócio.
 
+- **deployment:**
+Boas práticas de implantação do melhor modelo em produção.
+

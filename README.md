@@ -14,3 +14,8 @@ Primeira etapa do ETL (extração).
 - **data-cleaning:**
 Boas práticas de limpeza, tratamento dos dados nulos, transformação e criação de variáveis (feature engineering).
 Segunda e terceira etapas do ETL (transformação e carregamento).
+
+- **exploratory-analysis:**
+Boas práticas de análise exploratória dos dados (verificar outliers, correlação, tipo de distribuição, estatística
+descritiva dos dados).
+

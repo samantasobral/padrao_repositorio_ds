@@ -9,4 +9,4 @@ Este manual abrange boas práticas em Ciência de Dados na empresa Data-CDS.
 
 - **data-extract:**   
 Boas práticas de extração de dados, exploração inicial e familiarização com os dados disponíveis.
-Primeira etapa do ETL (extração).
+Primeira etapa do ETL, extração.

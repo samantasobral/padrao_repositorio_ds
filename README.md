@@ -10,3 +10,7 @@ Este manual abrange boas práticas em Ciência de Dados na empresa Data-CDS.
 - **data-extract:**
 Boas práticas de extração de dados, exploração inicial e familiarização com os dados disponíveis.
 Primeira etapa do ETL (extração).
+
+- **data-cleaning:**
+Boas práticas de limpeza, tratamento dos dados nulos, transformação e criação de variáveis (feature engineering).
+Segunda e terceira etapas do ETL (transformação e carregamento).

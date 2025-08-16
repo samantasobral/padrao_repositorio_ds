@@ -7,7 +7,5 @@ Este manual abrange boas práticas em Ciência de Dados na empresa Data-CDS.
 
 **Diretórios:** 
 
-- **modeling:**  
-Boas práticas de aplicação e avaliação de algoritmos para construir modelos de acordo com as métricas e objetivos 
-do problema de negócio.
-
+- **deployment:**  
+Boas práticas de implantação do melhor modelo em produção.

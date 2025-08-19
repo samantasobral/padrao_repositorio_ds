@@ -5,48 +5,48 @@
 2. Crie uma branch com 
 um dos seguintes prefixos:
 
-	- adicionar nova feature: 
+	-  adicionar nova feature:
 	feature/<nome_branch>
 	
-	- novo lançamento: 
+	-  novo lançamento:
 	release/<nome_branch>
 	
-	- correção de bugs: 
+	-  correção de bugs:
 	bugfix/<nome_branch>
 	
-	- correção de bugs no ambiente de produção: 
+	-  correção de bugs no ambiente de produção:
 	hotfix/<nome_branch>
 	
-	- inclusão ou alteração de documentos: 
+	-  inclusão ou alteração de documentos:
 	docs/<nome_branch>
 
-3. Faça os commits seguindo o padrão: 
+3. Faça os commits seguindo o padrão:
 
-	- `feat: <descrição da feature>`
+	-  `feat: <descrição da feature>`
 
-	- 'fix: <correção do bug xyz>'
+	-  'fix: <correção do bug xyz>'
 	
-	- 'refactor: <refatoração>'
+	-  'refactor: <refatoração>'
 
-	- 'chore: <descrição da tarefa cotidiana>'
+	-  'chore: <descrição da tarefa cotidiana>'
 
-	- 'docs: <atualização ou adição de documentos>'
+	-  'docs: <atualização ou adição de documentos>'
 
-	- 'perf: <alterações no código 
+	-  'perf: <alterações no código
 	que melhoram o desempenho>'
 
-	- 'style: <alterações na formatação do código>'
+	-  'style: <alterações na formatação do código>'
 
-	- 'test: <inclusão ou correção de testes>'
+	-  'test: <inclusão ou correção de testes>'
 
-	- 'build: <afeta o sistema build 
+	-  'build: <afeta o sistema build
 	ou dependências externas>'
 
-	- 'ci: <arquivos de configuração 
+	-  'ci: <arquivos de configuração
 	e scripts com integração contínua>'
 
-	- 'env: <arquivos de configuração 
-	dentro dos processos de CI, 
+	-  'env: <arquivos de configuração
+	dentro dos processos de CI,
 	parâmetros de configuração de contêiners>'
 
 4. Abra um Pull Request explicando suas mudanças
